@@ -1,5 +1,5 @@
 # TransitNote
-A web app for trans fans to plan & note their transit (运转) routes.
+A decision supporting web application for transit enthusiasts, even researchers and general passengers. Users are able to search multiple transit routes/lines while displaying their alignments and stops/stations on map, for comparing and analyzing such as different, overlapping, closing or similar sections/parts. The support for drawing path for a supposed transit route/line, by manually listing or inputting stop/station names and waypoint coordinates, is also planned. Since transit enthusiasts would plan some of their travels mainly for experiencing transit route(s)/line(s), the app would be able to plan routes manually, by setting way point(s) or must-aboard section(s) of certain route(s)/line(s), then the user would receive estimated time and distance.
 
 [中文说明](README-CN.md)
 
