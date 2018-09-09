@@ -13,7 +13,9 @@ A decision supporting web application for transit enthusiasts, even researchers 
 ## Techstack
 
 * Amap JavaScript API
-* React or Vue framework
+* Vue.js
+* iView
+* vue-amap
 
 ## Route map
 

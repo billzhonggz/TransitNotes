@@ -13,7 +13,9 @@
 ## 技术栈
 
 * 高德地图JavaScript API
-* React或Vue框架
+* Vue.js
+* iView
+* vue-amap
 
 ## 路线图
 
