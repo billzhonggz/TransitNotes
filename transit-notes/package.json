@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "iview": "^3.0.1",
-    "vue": "^2.5.17"
+    "vue": "^2.5.17",
+    "vue-amap": "^0.5.8"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.1",
