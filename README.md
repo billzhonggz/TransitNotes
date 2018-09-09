@@ -19,7 +19,12 @@ A decision supporting web application for transit enthusiasts, even researchers 
 
 ## Route map
 
-*TODO*
+* [x] Select technologies applied.
+* [ ] Design of the prototype.
+* [ ] List of features and their order of implementation.
+* [ ] Design of system structure.
+* [ ] Implementation of single-page application.
+* [ ] Implementation of WeChat Little Program application.
 
 ## Contribution
 
